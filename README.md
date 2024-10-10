@@ -1,2 +1,2 @@
-# flask_google_oidc_example
+# A simple Flask App with Google OIDC 
 An example flask app with google oidc auth 
