@@ -1,0 +1,7 @@
+requests==2.32.3
+Flask==3.0.3
+flask-caching==2.3.0
+oauthlib==3.2.2
+pyOpenSSL==24.2.1
+Flask-Login==0.6.3
+PyJWT==2.9.0
